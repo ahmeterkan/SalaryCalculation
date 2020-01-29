@@ -1,0 +1,9 @@
+C:\Users\Ahmet\source\repos\maashesaplama\maashesaplama\bin\Debug\maashesaplama.exe.config
+C:\Users\Ahmet\source\repos\maashesaplama\maashesaplama\bin\Debug\maashesaplama.exe
+C:\Users\Ahmet\source\repos\maashesaplama\maashesaplama\bin\Debug\maashesaplama.pdb
+C:\Users\Ahmet\source\repos\maashesaplama\maashesaplama\obj\Debug\maashesaplama.csprojAssemblyReference.cache
+C:\Users\Ahmet\source\repos\maashesaplama\maashesaplama\obj\Debug\maashesaplama.Form1.resources
+C:\Users\Ahmet\source\repos\maashesaplama\maashesaplama\obj\Debug\maashesaplama.Properties.Resources.resources
+C:\Users\Ahmet\source\repos\maashesaplama\maashesaplama\obj\Debug\maashesaplama.csproj.GenerateResource.cache
+C:\Users\Ahmet\source\repos\maashesaplama\maashesaplama\obj\Debug\maashesaplama.exe
+C:\Users\Ahmet\source\repos\maashesaplama\maashesaplama\obj\Debug\maashesaplama.pdb
